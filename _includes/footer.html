@@ -1,0 +1,31 @@
+<footer class="footer">
+    <div class="container">
+        
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+   <div class="container"
+        <div class="footer-icons">    
+
+        <a href="https://www.facebook.com/profile.php?id=100088522891273"><i class="fa fa-facebook"></i></a>
+        <a href="https://www.youtube.com/channel/UCeS3b6C--e-U7yd2mL2ChQQ"><i class="fa fa-youtube"></i></a>
+        <a href="https://github.com/WePrint3D"><i class="fa fa-github"></i></a>
+        <a href="mailto:WePrint@usherbrooke.ca"><i class="fa fa-envelope"></i></a>
+
+        </div>
+    </div>
+
+        <div class="content is-small has-text-centered">
+            <p class="">Copyright &copy; by WePrint</p>
+        </div>
+    </div>
+</footer>
