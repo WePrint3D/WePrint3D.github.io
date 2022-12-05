@@ -1,44 +1,52 @@
-- tier_name: Platinum Sponsors
+
+- tier_name: Titanium Sponsors
   size: large
   description: |-
-    This is the description for the Platinum Tier.
+    This is the description for the Titatium Tier.
 
-    It can contain multiple lines. It has the size set to 'large'.
   sponsors:
-    - name: Dave McDave
-      profile: https://github.com/
-    - name: Sarah Lee-Cheesecake
-      profile: https://github.com/
+    - name: Umano Medical
+      profile: https://www.umanomedical.com/en-us/
+
 - tier_name: Gold Sponsors
   description: |-
     This is the description for the Gold Tier
   sponsors:
-    - name: Dave McDave
+    - name: Blablabla
       profile: https://github.com/
-    - name: Sarah Lee-Cheesecake
+    - name: Blablabla
       profile: https://github.com/
-    - name: John Smith
+    - name: Blablabla
       profile: https://github.com/
-- tier_name: Standard Sponsors
+
+
+- tier_name: Silver Sponsors
+  description: |-
+    This is the description for the Silver Tier
+  sponsors:
+    - name: Blablabla
+      profile: https://github.com/
+    - name: Blablabla
+      profile: https://github.com/
+    - name: Blablabla
+      profile: https://github.com/
+
+- tier_name: Bronze Sponsors
   size: small
   description: |-
-    This is the description for the Standard Tier.
+    This is the description for the Bronze Tier.
 
-    It has the size set to 'small'.
-
-    The profile is not required so if it's not set the link will not appear.
   sponsors:
-    - name: Dave McDave
+    - name: Blablabla
       profile: https://github.com/
-    - name: Sarah Lee-Cheesecake
+    - name: Blablabla
       profile: https://github.com/
-    - name: John Smith
+    - name: Blablabla
       profile: https://github.com/
-    - name: Jane Smith
+    - name: Blablabla
       profile: https://github.com
-    - name: John Doe
+    - name: Blablabla
       profile: https://github.com/
-    - name: Jane Doe
+    - name: Blablabla
       profile: https://github.com/
-    - name: John Jones
-    - name: Jane Jones
+    - name: Blablabla

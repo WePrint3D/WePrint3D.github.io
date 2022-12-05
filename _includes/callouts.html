@@ -6,6 +6,11 @@
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
                         <div class="column is-4 has-text-centered">
+                            {% if callout.image%}
+                            <div class="icon">
+                                <iframe src="{{callout.image}}"></iframe>
+                            </div>
+                            {% endif %}
                             {% if callout.icon %}
                             <div class="icon callout-icon">
                             {% if callout.icon_brand %}
