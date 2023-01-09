@@ -10,7 +10,7 @@ image: /img/3dPrintedComponent.jpg
 tags: 3DPrinting Sherbrooke Metal
 ---
 
-The idea behind the 3d printer is to blablabalbabalbalaballablbala
+The idea behind the 3d printer is to blablabalbabalbalaballablbala, frank was here
 
 ## GitHub Pages Configuration
 
