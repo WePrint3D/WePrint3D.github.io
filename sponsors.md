@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sponsors Page
-subtitle: WePrint's Contributor
+title: Page des commanditaires
+subtitle: Contributeur du Projet WePrint
 sponsors: example_sponsors
 show_sidebar: false
 hero_image: /img/am-powder.jpg
 ---
 
-[View the sponsors docs](/GES_Comu_PlandecommanditeWePrint_V06.pdf)
+[Document de commandite](/GES_Comu_PlandecommanditeWePrint_V06.pdf)

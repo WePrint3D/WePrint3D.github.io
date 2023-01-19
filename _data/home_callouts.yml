@@ -1,12 +1,22 @@
 style: is-light
 height: is-medium
 items:
-  - title: Complex parts easily made
-    subtitle: Make aerospace grade parts at home
-    icon: fa-space-shuttle
-  - title: Build your own
-    subtitle: Detailed fabrication procedure available
+
+  - title: Impression de pièces métaliques
+    subtitle: Augmenter la qualité de vos pièces
+    icon: fa-cubes
+  # - title: Complex parts easily made
+  #   subtitle: Make aerospace grade parts at home
+  #   icon: fa-cubes
+  - title: Simple d'utilisation
+    subtitle: Utilisation d'outils d'impression standards
     icon: fa-wrench
-  - title: Accessibility based design
-    subtitle: Quick and easy for users to get started
+  # - title: Build your own
+  #   subtitle: Detailed fabrication procedure available
+  #   icon: fa-wrench
+  - title:   Conception basée sur l'accessibilité
+    subtitle: Mise en marche facile pour l'utilisateur 
     icon: fa-users
+  #- title: Accessibility based design
+  #  subtitle: Quick and easy for users to get started
+  #  icon: fa-users

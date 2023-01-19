@@ -1,52 +1,65 @@
 
-- tier_name: Titanium Sponsors
-  size: large
+
+# - tier_name: Commanditaire Titane
+  # tier_image: /img/logo_tier/WePrintTitan.png
+#   size: large
+#   description: |-
+
+#   sponsors:
+#     - name: Umano Medical
+#       profile: https://www.umanomedical.com/en-us/
+#       image: /img_sponsor/2 - Umano Medical - Corporatif Officiel (WEB).png
+
+- tier_name: Commanditaire Or
+  tier_image: /img/logo_tier/WePrintGold.png
   description: |-
-    This is the description for the Titatium Tier.
 
   sponsors:
     - name: Umano Medical
       profile: https://www.umanomedical.com/en-us/
+      image: /img_sponsor/2 - Umano Medical - Corporatif Officiel (WEB).png
+    # - name: Blablabla
+    #   profile: https://github.com/
+    # - name: Blablabla
+    #   profile: https://github.com/
 
-- tier_name: Gold Sponsors
+
+- tier_name: Commanditaire Argent
+  tier_image: /img/logo_tier/WePrintSilver.png
   description: |-
-    This is the description for the Gold Tier
+   
   sponsors:
-    - name: Blablabla
-      profile: https://github.com/
-    - name: Blablabla
-      profile: https://github.com/
-    - name: Blablabla
-      profile: https://github.com/
+    - name: Events.Work
+      profile: https://www.events.work/
+      image:
 
 
-- tier_name: Silver Sponsors
+- tier_name: Commanditaires Fer
+  tier_image: /img/logo_tier/WePrintIron.png
   description: |-
-    This is the description for the Silver Tier
+   
   sponsors:
-    - name: Blablabla
-      profile: https://github.com/
-    - name: Blablabla
-      profile: https://github.com/
-    - name: Blablabla
-      profile: https://github.com/
+    - name: Arjo
+      profile: https://www.arjo.com/en-ca/
+      image: /img_sponsor/Arjo_Logo_RGB_tagline_FR_downscaled_128.jpg
+    - name: MaxiMetal
+      profile: https://www.maximetal.com/
+      image: /img_sponsor/maxi_metal_ss_rgb.jpg
+    - name: BigBill
+      profile: https://www.bigbill.com/ca_en/
+      image: /img_sponsor/BigBill.svg
 
-- tier_name: Bronze Sponsors
+- tier_name: Commanditaires Bronze
+  tier_image: /img/logo_tier/WePrintBronze.png
   size: small
   description: |-
-    This is the description for the Bronze Tier.
-
+   
   sponsors:
-    - name: Blablabla
-      profile: https://github.com/
-    - name: Blablabla
-      profile: https://github.com/
-    - name: Blablabla
-      profile: https://github.com/
-    - name: Blablabla
-      profile: https://github.com
-    - name: Blablabla
-      profile: https://github.com/
-    - name: Blablabla
-      profile: https://github.com/
-    - name: Blablabla
+    - name: Acier Simmonds
+      profile: https://www.aciersimmonds.ca/
+      image: /img_sponsor/Acier_Simmonds_RGB.png
+    - name: Vidatech Elevator
+      profile: https://www.vidatechelevator.com/
+      image: /img_sponsor/Logo_vidatech-final_couleur.png
+      image_dimension: width="128" height="128"
+
