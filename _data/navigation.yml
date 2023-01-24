@@ -1,6 +1,11 @@
 - name: Documentation
   link: /docs/
 - name: Commanditaire
-  link: /sponsors
+  link: /sponsors/
+  dropdown:
+  - name: Nos Commanditaires
+    link: /sponsors/
+  - name: Comment supporter le projet
+    link: /how-to-contribute/
 - name: Blog
   link: /blog/
