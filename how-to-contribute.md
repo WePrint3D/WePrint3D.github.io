@@ -21,7 +21,7 @@ L’équipe WePrint est composée de sept étudiants au baccalauréat en génie 
 
 ## Besoin financier du projet
 
-<div style="text-align: justify">Le projet nécessite du financement pour ces plusieurs sous-système.
+<!-- <div style="text-align: justify">Le projet nécessite du financement pour ces plusieurs sous-système.
 blalbabla explication de l'utilisation du budget
 <br>
 <br>
@@ -29,7 +29,7 @@ blalbabla explication de l'utilisation du budget
 <br>
 <br>
 
-</div>
+</div> -->
 <br>
 
 <div style="text-align: center;">
@@ -55,7 +55,7 @@ Tous les partenaires auront une mention sur les réseaux sociaux. L’équipe s�
 <br>
 <br>
 
-## --- Avantage de contribuer au projet ---
+<!-- ## --- Avantage de contribuer au projet ---
 
 <div style="text-align: justify">
 <br>
@@ -63,7 +63,7 @@ Tous les partenaires auront une mention sur les réseaux sociaux. L’équipe s�
   </div>
 
 <br>
-<br>
+<br> -->
 
 ## Contact pour plus d'information:
 
