@@ -62,4 +62,7 @@
       profile: https://www.vidatechelevator.com/
       image: /img_sponsor/Logo_vidatech-final_couleur.png
       image_dimension: width="128" height="128"
-
+    - name: Escaliers de la chaudière
+      profile: https://escaliersdelachaudiere.com/
+      image: /img_sponsor/EscaliersDeLaChaudiere.jpg
+      image_dimension: width="150" height="150"
