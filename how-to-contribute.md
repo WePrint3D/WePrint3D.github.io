@@ -2,7 +2,7 @@
 layout: page
 title: Comment supporter le projet
 subtitle: Aider au financement de l'imprimante WePrint
-show_sidebar: false
+show_sidebar: true
 hero_image: /img/am-powder.jpg
 ---
 
@@ -21,16 +21,17 @@ L’équipe WePrint est composée de sept étudiants au baccalauréat en génie 
 
 ## Besoin financier du projet
 
-<!-- <div style="text-align: justify">Le projet nécessite du financement pour ces plusieurs sous-système.
-blalbabla explication de l'utilisation du budget
-<br>
-<br>
+<div style="text-align: justify">Le projet WePrint nécessite du financement pour ces différents sous-systèmes : 
+</div>
 
-<br>
-<br>
-
-</div> -->
-<br>
+- **Électrique**    : Carte de contrôle et capteurs 
+- **Structure**     : Chassis de l'imprimante
+- **Cinématique**   : Système de déplacement d'axe
+- **Finition**     : Système de nettoyage et récupération de sable
+- **Extrusion**     : Système de déposition des poudres
+- **Thermique**     : Système de fusion des poudres
+- **MégaGÉNIAL**    : Matériels promotionnels et d'expositions 
+- **Tests et consommables**         : Consommables et équipement de test
 
 <div style="text-align: center;">
     <img src="/img/Budget.png" alt="Budget WePrint" width="550"/>
@@ -57,7 +58,12 @@ Tous les partenaires auront une mention sur les réseaux sociaux. L’équipe s�
 
 <!-- ## --- Avantage de contribuer au projet ---
 
-<div style="text-align: justify">
+<div style="text-align: justify"> -D’obtenir un crédit d’impôt pouvant aller jusqu’à 50 % pour le donateur individuel
+
+D’exploiter l’argument que le don coûteraau  net35  %  à 50  %  de moins(selon  la valeur du don)après application descréditsd’impôtnon remboursablespour don de bienfaisance  (données  compilant  les  crédits du  fédéral  et  du  Québec). Il  est  de  la responsabilité dela personnedonatricede vérifier si elleaura accès à cescrédits
+
+
+La condition à respecter estque de tels dons ne peuvent donner droit à aucune forme de publicité pour le donateur (individu ou compagnie). S’il y a publicité (nom ou logo du donateur sur un prototype, un site Internet, etc.) en échange de la contribution, il ne s’agit plus d’un don mais bien d’une commandite.Or, une commandite ne peut pas transiter par La Fondation et aucun reçu de don de bienfaisance ne peut être émis à un commanditaire.
 <br>
 
   </div>
