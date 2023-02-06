@@ -21,7 +21,11 @@ L’équipe WePrint est composée de sept étudiants au baccalauréat en génie 
 
 ## Besoin financier du projet
 
-<div style="text-align: justify">Le projet WePrint nécessite du financement pour ces différents sous-systèmes : 
+<div style="text-align: justify">
+Les partenaires du projet permettent aux étudiants d’approfondir leurs connaissances d’ingénierie. Les étudiants apprennent la gestion d’un projet réel tout en appliquant les connaissances techniques qu’ils ont acquises dans le baccalauréat au sein d’une équipe multidisciplinaire en ingénierie.
+<br>
+<br>
+Le projet WePrint nécessite du financement pour ces différents sous-systèmes: 
 </div>
 
 - **Électrique**    : Carte de contrôle et capteurs 
@@ -38,38 +42,36 @@ L’équipe WePrint est composée de sept étudiants au baccalauréat en génie 
 </div>
 <br>
 
-## Plan de visibilité des commanditaires
+## Contribuer au projet par donation
 
-
-<div style="text-align: justify">Les partenaires du projet permettent aux étudiants d’approfondir leurs connaissances d’ingénierie. Les étudiants apprennent la gestion d’un projet réel tout en appliquant les connaissances techniques qu’ils ont acquises dans le baccalauréat au sein d’une équipe multidisciplinaire en ingénierie.
+<div style="text-align: justify"> 
+La contribution par donation est permet d'obtenir un crédit d’impôt pouvant aller jusqu’à 50% pour le donateur individuel après application des crédits d’impôt non remboursables pour don de bienfaisance (données compilant les crédits du fédéral et du Québec). Il est de la responsabilité de la personne donatrice de vérifier si elle aura accès à ces crédits.
 <br>
 <br>
+La condition à respecter est que de tels dons ne peuvent donner droit à aucune forme de publicité pour le donateur (individu ou compagnie). S’il y a publicité (nom ou logo du donateur sur un prototype, un site Internet, etc.) en échange de la contribution, il ne s’agit plus d’un don mais bien d’une commandite. Or, une commandite ne peut pas transiter par La Fondation.
+<br>
+<br>
+Le formulaire suivant permet de faire des donations en sélectionnant «autre projet» et en spécifiant « Fonds de projet WePrint » à la dernière section du formulaire.
+<br>
+<br>
+<a href="https://www.usherbrooke.ca/faire-un-don/#/CA_DIP">Faire un don en ligne</a>
+</div>
+
+## Contribuer au projet par commandite
+
+<div style="text-align: justify">
 Tous les partenaires auront une mention sur les réseaux sociaux. L’équipe s’engage à donner une visibilité à tous les partenaires lorsque le projet sera présenté au public pour la première fois, à l’Expo MégaGÉNIALE qui se tiendra à l’Université de Sherbrooke en novembre 2023. Cet évènement est la plus grande exposition de projets de génie au Canada et accueille près de 5600 visiteurs chaque année.
-  </div>
-
 <br>
+<br>
+Pour effectuer une commandite, veuillez envoyer un courriel avec vos informations à <a href="mailto:weprint@usherbrooke.ca">weprint@usherbrooke.ca</a>.
+</div>
 <br>
 
 <div style="text-align: center;">
     <img src="/img/sponsor_tier.png" alt="Sponsor Tier" width="1100"/>
 </div>
 <br>
-<br>
 
-<!-- ## --- Avantage de contribuer au projet ---
-
-<div style="text-align: justify"> -D’obtenir un crédit d’impôt pouvant aller jusqu’à 50 % pour le donateur individuel
-
-D’exploiter l’argument que le don coûteraau  net35  %  à 50  %  de moins(selon  la valeur du don)après application descréditsd’impôtnon remboursablespour don de bienfaisance  (données  compilant  les  crédits du  fédéral  et  du  Québec). Il  est  de  la responsabilité dela personnedonatricede vérifier si elleaura accès à cescrédits
-
-
-La condition à respecter estque de tels dons ne peuvent donner droit à aucune forme de publicité pour le donateur (individu ou compagnie). S’il y a publicité (nom ou logo du donateur sur un prototype, un site Internet, etc.) en échange de la contribution, il ne s’agit plus d’un don mais bien d’une commandite.Or, une commandite ne peut pas transiter par La Fondation et aucun reçu de don de bienfaisance ne peut être émis à un commanditaire.
-<br>
-
-  </div>
-
-<br>
-<br> -->
 
 ## Contact pour plus d'information:
 
