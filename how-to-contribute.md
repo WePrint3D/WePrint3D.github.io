@@ -45,13 +45,13 @@ Le projet WePrint nécessite du financement pour ces différents sous-systèmes:
 ## Contribuer au projet par donation
 
 <div style="text-align: justify"> 
-La contribution par donation est permet d'obtenir un crédit d’impôt pouvant aller jusqu’à 50% pour le donateur individuel après application des crédits d’impôt non remboursables pour don de bienfaisance (données compilant les crédits du fédéral et du Québec). Il est de la responsabilité de la personne donatrice de vérifier si elle aura accès à ces crédits.
+La contribution par donation permet d'obtenir un crédit d’impôt pouvant aller jusqu’à 50% pour le donateur individuel après application des crédits d’impôt non remboursables pour don de bienfaisance (données compilant les crédits du fédéral et du Québec). Il est de la responsabilité de la personne donatrice de vérifier si elle aura accès à ces crédits.
 <br>
 <br>
-La condition à respecter est que de tels dons ne peuvent donner droit à aucune forme de publicité pour le donateur (individu ou compagnie). S’il y a publicité (nom ou logo du donateur sur un prototype, un site Internet, etc.) en échange de la contribution, il ne s’agit plus d’un don mais bien d’une commandite. Or, une commandite ne peut pas transiter par La Fondation.
+La condition à respecter est que de tels dons ne peuvent donner droit à aucune forme de publicité pour le donateur (individu ou compagnie). S’il y a publicité (nom ou logo du donateur sur un prototype, un site Internet, etc.) en échange de la contribution, il ne s’agit plus d’un don, mais bien d’une commandite. Une commandite ne peut pas transiter par La Fondation, donc la démarche se fait avec l'équipe WePrint .
 <br>
 <br>
-Le formulaire suivant permet de faire des donations en sélectionnant «autre projet» et en spécifiant « Fonds de projet WePrint » à la dernière section du formulaire.
+Le formulaire suivant permet de faire des donations en sélectionnant « autre projet » et en spécifiant « Fonds de projet WePrint » à la dernière section du formulaire.
 <br>
 <br>
 <a href="https://www.usherbrooke.ca/faire-un-don/#/CA_DIP">Faire un don en ligne</a>
