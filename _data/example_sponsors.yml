@@ -18,6 +18,10 @@
     - name: Umano Medical
       profile: https://www.umanomedical.com/en-us/
       image: /img_sponsor/2 - Umano Medical - Corporatif Officiel (WEB).png
+    - name: Viva Design
+      profile: https://vivadesign.ca/
+      image: /img_sponsor/Viva-Design-Logo_RVB.png
+      image_dimension: width="223" height="150"      
     # - name: Blablabla
     #   profile: https://github.com/
     # - name: Blablabla
