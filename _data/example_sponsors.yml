@@ -1,14 +1,14 @@
 
 
-# - tier_name: Commanditaire Titane
-  # tier_image: /img/logo_tier/WePrintTitan.png
-#   size: large
-#   description: |-
+- tier_name: Commanditaire Titane
+  tier_image: /img/logo_tier/WePrintTitan.png
+  size: large
+  description: |-
 
-#   sponsors:
-#     - name: Umano Medical
-#       profile: https://www.umanomedical.com/en-us/
-#       image: /img_sponsor/2 - Umano Medical - Corporatif Officiel (WEB).png
+  sponsors:
+    - name: Fonderie Poitras
+      profile: https://fonderiepoitras.com/fr/
+      image: /img_sponsor/poitras_logo_principal_sans-enonce_2couleurs-pantone.png
 
 - tier_name: Commanditaire Or
   tier_image: /img/logo_tier/WePrintGold.png
@@ -22,10 +22,6 @@
       profile: https://vivadesign.ca/
       image: /img_sponsor/Viva-Design-Logo_RVB.png
       image_dimension: width="223" height="150"      
-    # - name: Blablabla
-    #   profile: https://github.com/
-    # - name: Blablabla
-    #   profile: https://github.com/
 
 
 - tier_name: Commanditaire Argent
@@ -70,3 +66,7 @@
       profile: https://escaliersdelachaudiere.com/
       image: /img_sponsor/EscaliersDeLaChaudiere.jpg
       image_dimension: width="150" height="150"
+    - name: Jambette
+      profile: https://www.jambette.com/
+      image: /img_sponsor/jambette.png
+
